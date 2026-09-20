@@ -1,0 +1,6 @@
+```text
+matplotlib==3.10.8
+numpy==1.26.4
+sympy==1.14.0
+notebook==7.6.2
+```
