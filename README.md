@@ -9,6 +9,18 @@ A detailed explanation of the theory can be read in the author's thesis paper: A
 
 The python script for the solver is found in the file "PoissonSolverwT.py" and an implementation is in the notebook "AdaptiveFDM.ipynb". NOTE! To be able to run the code, you need to first activate the DUNE environment.
 
+### Installing the dependencies
+
+First, activate the virtual environment:
+
 ```bash
 source ./dune-env/bin/activate
 ```
+
+Then install the required Python packages from `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+
+The `requirements.txt` file contains all required dependencies, including NumPy, Matplotlib, SymPy, and Jupyter Notebook.
