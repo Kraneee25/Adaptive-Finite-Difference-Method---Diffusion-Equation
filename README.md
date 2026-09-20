@@ -12,5 +12,3 @@ The python script for the solver is found in the file "PoissonSolverwT.py" and a
 ```bash
 source ./dune-env/bin/activate
 ```
-
-Feel free to contact author for questions! <a href=https://www.linkedin.com/in/krane-dabatos/> Contact me here. </a>
